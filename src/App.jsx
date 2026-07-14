@@ -47,7 +47,6 @@ function App() {
        <Friends friends={friends} />
 
 
-
        <TransactionHistory items={transactions} />;
     </>
   )
